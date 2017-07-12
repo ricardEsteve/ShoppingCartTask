@@ -14,7 +14,7 @@ public class Main {
 
         System.out.println(p1.toString());
 
-         ShoppingCart sCart = new ShoppingCart();
+        ShoppingCart sCart = new ShoppingCart();
 
         System.out.println(sCart);
 
